@@ -1,12 +1,13 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: HandS
+email: handskoreauniv@gmail.com
+description: 고려대학교 전기전자공학부 전공학회 HandS 입니다> # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "handskoreauniv.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: HandSKoreaUniv
+github_username: HandSKoreaUniv
+facebook_groupname: koreahands
 
 # Build settings
 markdown: kramdown

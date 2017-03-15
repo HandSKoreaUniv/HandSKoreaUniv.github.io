@@ -112,17 +112,17 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            color: #960B06;
             &:hover,
             &:focus {
-                color: white;
+                color: crimson;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: #960B06;
             &:hover {
-                color: white;
+                color: crimson;
             }
         }
         &.affix {
@@ -157,7 +157,7 @@ header {
     background-position: center;
     background-image: url('../img/header.jpg');
     text-align: center;
-    color: white;
+    color: black;
     .header-content {
         position: relative;
         text-align: center;
