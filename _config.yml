@@ -8,7 +8,7 @@ url: "handskoreauniv.github.io" # the base hostname & protocol for your site
 twitter_username: HandSKoreaUniv
 github_username: HandSKoreaUniv
 facebook_groupname: koreahands
-register_url: https://goo.gl/forms/euiUi7Nc1RTYGpWW2
+register_url: https://docs.google.com/forms/d/e/1FAIpQLSeK4bTbLNw1RhlBolnHRVrbyPkRxjHF1mbsKayOeJPV9z8D4A/viewform?usp=sf_link
 
 # Build settings
 markdown: kramdown
